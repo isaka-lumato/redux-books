@@ -1,5 +1,7 @@
 import * as api from '../../api/api';
 
+import '../../styles/book.css';
+
 const ADD_BOOK = 'BookStores/books/ADD_BOOK';
 const REMOVE_BOOK = 'BookStores/books/REMOVE_BOOK';
 const GET_BOOKS = 'BookStores/books/GET_BOOKS';
