@@ -2,7 +2,7 @@
 
 Book-Store-App is a React SPA that allows users to add books and remove them. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot from 2021-11-10 02-59-06](https://user-images.githubusercontent.com/75973193/141024798-81eaf838-e8d1-412e-9a73-787b2b2049ba.png)
+![bookStore](https://user-images.githubusercontent.com/75973193/141653266-35bcb3b9-3a67-4923-badf-727b58c5d3f9.png)
 
 
 ### Prerequisites
